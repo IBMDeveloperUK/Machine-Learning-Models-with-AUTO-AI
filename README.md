@@ -9,16 +9,16 @@
 
 - When you are signed up click `Create Resource` at the top of the Resources page. You can find the resources under the hamburger menu at the top left:
 
- ![](https://github.com/IBMDeveloperUK/pandas-workshop/blob/master/images/resources.png)
+ ![](Images/Create_resource.png)
  
 - Search for Watson Studio and click on the tile:
 
-![](https://github.com/IBMDeveloperUK/jupyter-notebooks-101/blob/master/images/studio.png)
+![](Images/Watson_Studio.png)
 
 - Select the Lite plan and click `Create`.
 - Go back to the Resources list and click on your Watson Studio service and then click `Get Started`. 
 
-![](https://github.com/IBMDeveloperUK/jupyter-notebooks-101/blob/master/images/launch.png)
+![](Images/launch.png)
 
 ## IBM Watson Studio
 
