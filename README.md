@@ -44,3 +44,14 @@ We will use some public datasets to build and deploy two different model pipelin
 
 ![](Images/AutoAI.png)
 
+### 3. Associate a Machine Learning service 
+
+- Give your Auto AI experiment a unique name 
+- Associate a Watson Machine Learning service, if you have already created one this will apear in the dropdown or you can create a new one. 
+- Once this is done, click the "Reload" button for your Machine Learning service to appear 
+
+![](Images/Mlservice.png)
+
+
+- Your machine learning service will appear under "Associated services"
+- Click Create 
