@@ -71,6 +71,21 @@ https://www.kaggle.com/vikrishnan/boston-house-prices
 ![](Images/Data_Source.png)
 
 
-- We will now work through the different aspects of configuring our AutoAI experiment and discuss the Classification Models that are created. 
+## We will now work through the different aspects of configuring our AutoAI experiment and discuss the Classification Models that are created. 
 
 
+### Deploying you Model 
+
+- Once you select your final model pipeline. You can choose to Save it as a notebook or an ML model. 
+
+- Choose your option and Click Save 
+
+![](Images/MLModel.png)
+
+- Once your model is saved, Go to the Deployments Tab and Add a Deployment 
+
+![](Images/Deployments.png)
+
+- Create your Deployment by giving it a unique name
+
+-
