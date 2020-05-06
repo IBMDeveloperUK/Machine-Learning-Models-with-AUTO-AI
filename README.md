@@ -71,7 +71,7 @@ https://www.kaggle.com/vikrishnan/boston-house-prices
 ![](Images/Data_Source.png)
 
 
-# - We will now work through the different aspects of configuring our AutoAI experiment and discuss the Classification Models that are created. 
+#### - We will now work through the different aspects of configuring our AutoAI experiment and discuss the Classification Models that are created. 
 
 
 ### Deploying you Model 
@@ -93,6 +93,6 @@ https://www.kaggle.com/vikrishnan/boston-house-prices
 ![](Images/Click.png)
 
 - You can now test your model by providing input Data via the form or in a JSON format 
+![](Images/Predict.png) 
 
- #### ![](Images/Predict.png) 
 
