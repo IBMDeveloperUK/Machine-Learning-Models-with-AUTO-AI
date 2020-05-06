@@ -40,5 +40,7 @@ We will use some public datasets to build and deploy two different model pipelin
 
 - click `Create`.  
 
+### 2. Once you are in the Project Dashboard, click on "Add to Project" on the top right and select AutoAI Experiment 
 
+![](Images/AutoAI.png)
 
