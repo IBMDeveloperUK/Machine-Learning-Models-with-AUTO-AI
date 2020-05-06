@@ -36,7 +36,7 @@ We will use some public datasets to build and deploy two different model pipelin
 - Give your Project a name.
 - Select an Object Storage from the drop-down menu or create a new one for free. This is used to store the notebooks and data. **Do not forget to click refresh when returning to the Project page.**
 
-![](Images/COS_1.png)
+![](Images/COS.png)
 
 - click `Create`.  
 
