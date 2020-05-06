@@ -1,4 +1,4 @@
-# Machine-Learning-Models-with-AUTO-AI 
+# Machine Learning Models with AUTO AI 
 
 In this workshop you will learn how to build and deploy your own AI Models.
 
