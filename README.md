@@ -29,7 +29,7 @@ We will use some public datasets to build and deploy two different model pipelin
 
 ## IBM Watson Studio
 
-### 1. Create a new Project
+### Create a new Project
 
 - You should now be in Watson Studio.
 - Create a new project by clicking on `Get Started` and `New Project`, or `Create Project`
@@ -40,11 +40,11 @@ We will use some public datasets to build and deploy two different model pipelin
 
 - click `Create`.  
 
-### 2. Once you are in the Project Dashboard, click on "Add to Project" on the top right and select AutoAI Experiment 
+### Once you are in the Project Dashboard, click on "Add to Project" on the top right and select AutoAI Experiment 
 
 ![](Images/AutoAI.png)
 
-### 3. Associate a Machine Learning service 
+### Associate a Machine Learning service 
 
 - Give your Auto AI experiment a unique name 
 - Associate a Watson Machine Learning service, if you have already created one this will apear in the dropdown or you can create a new one. 
@@ -55,3 +55,21 @@ We will use some public datasets to build and deploy two different model pipelin
 
 - Your machine learning service will appear under "Associated services"
 - Click Create 
+
+### Upload your Data Sets
+
+- In this workshop we will be analysing two Datasets 
+- One to create a Classification model and the other to create a Regression Model 
+
+- Browse and add your Data source 
+- Datasets for this workshop have been acquired from : 
+
+https://github.com/IBM/predictive-model-on-watson-ml 
+https://www.kaggle.com/vikrishnan/boston-house-prices 
+
+![](Images/Data_Source.png)
+
+
+- We will now work through the different aspects of configuring our AutoAI experiment and discuss the Classification Models that are created. 
+
+
