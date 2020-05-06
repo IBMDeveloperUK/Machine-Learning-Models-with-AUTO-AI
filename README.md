@@ -94,4 +94,5 @@ https://www.kaggle.com/vikrishnan/boston-house-prices
 
 - You can now test your model by providing input Data via the form or in a JSON format 
 
-![](Images/Predict.png) 
+ #### ![](Images/Predict.png) 
+
