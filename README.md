@@ -71,7 +71,7 @@ https://www.kaggle.com/vikrishnan/boston-house-prices (with minor changes to ori
 ![](Images/Data_Source.png)
 
 
-#### - We will now work through the different aspects of configuring our AutoAI experiment and discuss the Classification Models that are created. 
+### We will now work through the different aspects of configuring our AutoAI experiment and discuss the Classification Models that are created. 
 
 
 ### Deploying you Model 
