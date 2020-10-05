@@ -79,7 +79,7 @@ https://www.kaggle.com/vikrishnan/boston-house-prices (with minor changes to ori
 ![](Images/Data_Source.png)
 
 
-### We will now work through the different aspects of configuring our AutoAI experiment and discuss the Classification Models that are created. 
+## We will now work through the different aspects of configuring our AutoAI experiment and discuss the Classification Models that are created. 
 
 
 ### Deploying you Model 
@@ -90,17 +90,5 @@ https://www.kaggle.com/vikrishnan/boston-house-prices (with minor changes to ori
 
 ![](Images/MLModel.png)
 
-- Once your model is saved, Go to the Deployments Tab and Add a Deployment 
-
-![](Images/Deployments.png)
-
-- Create your Deployment by giving it a unique name
-
-- Once the status changes from initializing to "Ready" click on the Model name to test your model 
-
-![](Images/Click.png)
-
-- You can now test your model by providing input Data via the form or in a JSON format 
-![](Images/Predict.png) 
 
 
