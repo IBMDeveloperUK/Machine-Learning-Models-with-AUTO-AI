@@ -69,9 +69,12 @@ We will use some public datasets to build and deploy two different model pipelin
 - Browse and add your Data source 
 - Datasets for this workshop have been acquired from : 
 
+https://www.kaggle.com/noordeen/insurance-premium-prediction
+
 https://github.com/IBM/predictive-model-on-watson-ml (with minor changes to original data)
 
 https://www.kaggle.com/vikrishnan/boston-house-prices (with minor changes to original data)
+
 
 ![](Images/Data_Source.png)
 
