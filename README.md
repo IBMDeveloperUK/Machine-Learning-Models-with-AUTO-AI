@@ -82,7 +82,7 @@ https://www.kaggle.com/vikrishnan/boston-house-prices (with minor changes to ori
 ## We will now work through the different aspects of configuring our AutoAI experiment and discuss the Classification Models that are created. 
 
 
-### Deploying you Model 
+## Deploying you Model 
 
 - Once you select your final model pipeline. You can choose to Save it as a notebook or an ML model. 
 
@@ -102,9 +102,13 @@ https://www.kaggle.com/vikrishnan/boston-house-prices (with minor changes to ori
 
 - Access the deployment space from the left navigation pane. 
 
-![](Images/spaces.png)
-
 - In your Deployment Space, Choose the model you want to deploy from the <b> Assets </b> tab and click the <b> deploy </b> icon as shown
 
 ![](Images/Deploy.png)
 
+- Choose your Deployment type and create your Deployment. 
+
+![](Images/Deploy_type.png)
+
+
+- < b> Once your model is successuly deployed, you can access the <b> API reference </b> to make API calls or <b> Test </b> your model by providing input using a form or in a JSON format </b>
