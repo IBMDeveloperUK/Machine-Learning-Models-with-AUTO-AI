@@ -94,7 +94,7 @@ https://www.kaggle.com/vikrishnan/boston-house-prices (with minor changes to ori
 
 - Click on the saved model and <b> Promote to a deployment space </b>
 
-![](Images/PromoteSpace1.png.png)
+![](Images/PromoteSpace1.png)
 
 
 
