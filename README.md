@@ -96,5 +96,15 @@ https://www.kaggle.com/vikrishnan/boston-house-prices (with minor changes to ori
 
 ![](Images/PromoteSpace1.png)
 
+- Select the target deployment space you want to use for this deployment. If you do not have one yet, you can create a <b> new space. </b> 
 
+![](Images/PromoteSpace2.png)
+
+- Access the deployment space from the left navigation pane. 
+
+![](Images/spaces.png)
+
+- In your Deployment Space, Choose the model you want to deploy from the <b> Assets </b> tab and click the <b> deploy </b> icon as shown
+
+![](Images/Deploy.png)
 
