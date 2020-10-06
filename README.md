@@ -111,4 +111,4 @@ https://www.kaggle.com/vikrishnan/boston-house-prices (with minor changes to ori
 ![](Images/Deploy_type.png)
 
 
-<b> Once your model is successuly deployed, you can access the <b> API reference </b> to make API calls or <b> Test </b> your model by providing input using a form or in a JSON format </b>
+<b> Once your model is successuly deployed, you can access the API reference to make API calls or Test your model by providing input using a form or in a JSON format </b>
