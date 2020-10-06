@@ -90,5 +90,11 @@ https://www.kaggle.com/vikrishnan/boston-house-prices (with minor changes to ori
 
 ![](Images/MLModel.png)
 
+- Once your model is saved you will see a popup to <b> View in Project </b> or you can access the saved model from the <b> Assets </b> tab. 
+
+- Click on the saved model and <b> Promote to a deployment space </b>
+
+![](Images/PromoteSpace1.png.png)
+
 
 
