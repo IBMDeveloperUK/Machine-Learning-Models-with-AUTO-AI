@@ -23,12 +23,13 @@ Generate an IBM Cloud apikey by clicking the Manage --> Access (IAM) option on y
 - Click on your deployed model and under the <b> API reference tab <b> navigate to Python and select the URL to be used in app.py. 
   
   ![](Images/DeployID.png)
+  
 
 ## Generate the access token
 
-From the command line, type curl -V to verify if cURL is installed in your system. If cURL is not installed, refer to [these](https://develop.zendesk.com/hc/en-us/articles/360001068567-Installing-and-using-cURL#install) instructions to get it installed.
+- From the command line, type curl -V to verify if cURL is installed in your system. If cURL is not installed, refer to [these](https://develop.zendesk.com/hc/en-us/articles/360001068567-Installing-and-using-cURL#install) instructions to get it installed.
 
-Execute the following cURL command to generate your access token, but replace the apikey with the apikey you got earlier. 
+- Execute the following cURL command to generate your access token, but replace the apikey with the apikey you got earlier. 
 
 ```
 curl -X POST 'https://iam.cloud.ibm.com/oidc/token' -H 'Content-Type: application/x-www-form-urlencoded' -d 'grant_type=urn:ibm:params:oauth:grant-type:apikey&apikey=<api-key-goes-here>'
@@ -80,7 +81,7 @@ flask run
 
 ## (Windows Users only) - Running the app using Windows 10 and Powershell
 
-* Install flask and dependencies
+- Install flask and dependencies
 
 ```
 PS C:/> pip3 install flask flask-wtf urllib3 requests
@@ -88,7 +89,7 @@ PS C:/> pip3 install flask flask-wtf urllib3 requests
 Verify modules have been installed in the 'python38/scripts' folder
 ```
 
-* Run 'web-ap/app.py' from the local directory using flask
+- Run 'web-ap/app.py' from the local directory using flask
 
 ```
 PS C:/> set FLASK_APP=app.py
