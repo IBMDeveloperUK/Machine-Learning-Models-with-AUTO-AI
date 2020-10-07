@@ -20,11 +20,10 @@ Generate an IBM Cloud apikey by clicking the Manage --> Access (IAM) option on y
 
 ## Get model deployment Endpoint URL 
 
-- Click on your deployed model and under the <b> API reference tab <b> navigate to Python and select the URL to be used in app.py. 
+- Click on your deployed model and under the <b> API reference tab <b> navigate to Python and select the URL to be used in app.py
   
   ![](Images/DeployID.png)
   
-
 ## Generate the access token
 
 - From the command line, type `curl` -V to verify if cURL is installed in your system. If cURL is not installed, refer to [these](https://develop.zendesk.com/hc/en-us/articles/360001068567-Installing-and-using-cURL#install) instructions to get it installed 
