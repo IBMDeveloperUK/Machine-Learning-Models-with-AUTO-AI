@@ -98,5 +98,4 @@ PS C:/> flask run
 
 ## Run application from browser
 
-- Go to `127.0.0.1:5000` in your browser to view the application. Go ahead and fill in the form, and click on the `Predict`
-button to see your predicted charges based on your data. 
+- Go to `127.0.0.1:5000` in your browser to view the application. Fill in the form, and click on the `Predict` to see the predicted charges based on your data. 
