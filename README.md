@@ -75,6 +75,8 @@ https://github.com/IBM/predictive-model-on-watson-ml (with minor changes to orig
 
 https://www.kaggle.com/vikrishnan/boston-house-prices (with minor changes to original data)
 
+https://developer.ibm.com/tutorials/generate-machine-learning-model-pipelines-to-choose-the-best-model-for-your-problem-autoai/
+
 
 ![](Images/Data_Source.png)
 
