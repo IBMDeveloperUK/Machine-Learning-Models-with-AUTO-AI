@@ -12,7 +12,7 @@ We will use some public datasets to build and deploy two different model pipelin
 
 ## IBM Cloud
 
-- http://ibm.biz/ibmcloudaccount Use this link to sign up for an IBM Cloud account
+- https://ibm.biz/BdfPqf Use this link to sign up for an IBM Cloud account
 
 - When you are signed up click `Create Resource` at the top of the Resources page. You can find the resources under the hamburger menu at the top left:
 
